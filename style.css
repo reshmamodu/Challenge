@@ -17,6 +17,7 @@ body {
   max-width: 1100px;
   margin: auto;
   padding: 20px 0;
+  background-color:#314661;
 }
 
 /* Header */
@@ -149,3 +150,4 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+
